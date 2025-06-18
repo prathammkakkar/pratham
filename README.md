@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/prathammkakkar/pratham/blob/main/gitbanner.gif)
+![MasterHead](https://github.com/prathammkakkar/prathammkakkar/blob/main/gitbanner.gif)
 <h1 align="center">Hi 👋, I'm Pratham Kakkar</h1>
 <h3 align="center">A passionate web developer who specialises in frontend technologies</h3>
-<img align="right" src="https://github.com/prathammkakkar/pratham/blob/main/stewiecoding.gif">
+<img align="right" src="https://github.com/prathammkakkar/prathammkakkar/blob/main/stewiecoding.gif">
 
 
 - 🔭 I’m currently working at **WAHStory**
